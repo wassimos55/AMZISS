@@ -60,6 +60,54 @@
         </a>
       </div>
       <!-- product - end -->
+            <!-- product - start -->
+            <div>
+        <a href="#" class="group h-96 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
+          <img src="https://images.unsplash.com/photo-1560269999-cef6ebd23ad3?auto=format&q=75&fit=crop&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
+
+          <div class="w-full flex flex-col bg-white text-center rounded-lg relative p-4">
+            <span class="text-gray-500">Women</span>
+            <span class="text-gray-800 text-lg lg:text-xl font-bold">Sale</span>
+          </div>
+        </a>
+      </div>
+      <!-- product - end -->
+            <!-- product - start -->
+            <div>
+        <a href="#" class="group h-96 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
+          <img src="https://images.unsplash.com/photo-1560269999-cef6ebd23ad3?auto=format&q=75&fit=crop&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
+
+          <div class="w-full flex flex-col bg-white text-center rounded-lg relative p-4">
+            <span class="text-gray-500">Women</span>
+            <span class="text-gray-800 text-lg lg:text-xl font-bold">Sale</span>
+          </div>
+        </a>
+      </div>
+      <!-- product - end -->
+            <!-- product - start -->
+            <div>
+        <a href="#" class="group h-96 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
+          <img src="https://images.unsplash.com/photo-1560269999-cef6ebd23ad3?auto=format&q=75&fit=crop&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
+
+          <div class="w-full flex flex-col bg-white text-center rounded-lg relative p-4">
+            <span class="text-gray-500">Women</span>
+            <span class="text-gray-800 text-lg lg:text-xl font-bold">Sale</span>
+          </div>
+        </a>
+      </div>
+      <!-- product - end -->
+            <!-- product - start -->
+            <div>
+        <a href="#" class="group h-96 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
+          <img src="https://images.unsplash.com/photo-1560269999-cef6ebd23ad3?auto=format&q=75&fit=crop&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
+
+          <div class="w-full flex flex-col bg-white text-center rounded-lg relative p-4">
+            <span class="text-gray-500">Women</span>
+            <span class="text-gray-800 text-lg lg:text-xl font-bold">Sale</span>
+          </div>
+        </a>
+      </div>
+      <!-- product - end -->
     </div>
   </div>
 </div>

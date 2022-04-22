@@ -1,4 +1,4 @@
-<div class=" pt-40">
+<div class=" pt-5">
   <footer class="max-w-screen-2xl px-4 md:px-8 mx-auto bg-white">
     <div class="flex flex-col md:flex-row justify-between items-center border-t border-b gap-4 py-6">
       <!-- nav - start -->

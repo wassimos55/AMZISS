@@ -1,5 +1,5 @@
 <?php include('includes/head.php'); ?>
-<body class="bg-gray-100 dark:bg-gray-900">
+<body class="bg-gray-50 dark:bg-gray-900">
  
 <!--Start Navbar-->
 <?php include('includes/navbar.php'); ?>   
@@ -14,6 +14,8 @@
 <!--Start Header-->
 <?php include('includes/header.php'); ?>   
 <!--End Header-->    
+
+
 
 
 <!--Start Intro-->
@@ -39,6 +41,9 @@
 <?php include('includes/team.php'); ?>   
 <!--End Team-->    
 
+<!--Start swiper-->
+<?php include('includes/swiper.php'); ?>   
+<!--End  swiper-->    
 
 <!--Start Footer-->
 <?php include('includes/footer.php'); ?>   

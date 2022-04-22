@@ -2,6 +2,20 @@
  
 <!--Flowbite-->  
 <script src="https://unpkg.com/flowbite@1.4.2/dist/flowbite.js"></script>
+<!--Swiper Js-->
+<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+<!-- Initialize Swiper -->
+<script>
+    var swiper = new Swiper(".mySwiper", {
+        slidesPerView: 4,
+        spaceBetween: 30,
+        freeMode: true,
+        pagination: {
+          el: ".swiper-pagination",
+          clickable: true,
+        },
+    });
+</script>
 <!--Navbar Scripts-->
 <script>
     // set the target element that will be collapsed or expanded (eg. navbar menu)
@@ -28,6 +42,14 @@ const options = {
 <script>
     var themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
     var themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
+    /*New Script */
+    // On page load or when changing themes, best to add inline in `head` to avoid FOUC
+    if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark');
+    } else {
+        document.documentElement.classList.remove('dark')
+    }
+    /*End New Script */
 
 
     // Change the icons inside the button based on previous settings
