@@ -37,9 +37,10 @@
 
 
 
-<!--Start Team-->
-<?php include('includes/team.php'); ?>   
-<!--End Team-->    
+
+<!--Start swiper2-->
+<?php include('includes/swiper2.php'); ?>   
+<!--End  swiper2-->    
 
 <!--Start swiper-->
 <?php include('includes/swiper.php'); ?>   

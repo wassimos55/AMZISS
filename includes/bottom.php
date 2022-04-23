@@ -16,6 +16,24 @@
         },
     });
 </script>
+   <!-- Initialize Swiper 2 -->
+   <script>
+      var swiper = new Swiper(".mySwiper2", {
+        slidesPerView: 5,
+        spaceBetween: 30,
+        slidesPerGroup: 3,
+        loop: true,
+
+        pagination: {
+          el: ".swiper-pagination",
+          clickable: true,
+        },
+        navigation: {
+          nextEl: ".swiper-button-next",
+          prevEl: ".swiper-button-prev",
+        },
+      });
+    </script>
 <!--Navbar Scripts-->
 <script>
     // set the target element that will be collapsed or expanded (eg. navbar menu)

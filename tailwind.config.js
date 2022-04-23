@@ -1,9 +1,18 @@
 const colors = require('tailwindcss/colors')
 module.exports = {
   purge: [],
-  darkMode: "class", // or 'media' or 'class'
+  darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      keyframes:{
+      moveY:{
+          '0%, 100%':{transform:'translateY(0px)'},
+          '50%':{transform:'translateY(25px)'},
+        }
+      },
+      animation: {
+          moveY:'moveY 2s infinite'
+      },
       colors: {
         primary:'#FF6363',
         secondary:{

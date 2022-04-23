@@ -1,21 +1,22 @@
+
 <div class="md:flex">
     <div class="md:w-6/12">
         <div class=" pb-6 sm:pb-8 pt-20 lg:pb-12">
             <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
                 <section class="min-h-96 md:max-h-60 flex justify-center items-center flex-1 shrink-0 overflow-hidden shadow-lg rounded-lg relative py-16 md:py-20 xl:py-48">
                 <!-- image - start -->
-               <img src="https://i.pinimg.com/originals/71/8c/99/718c99b36acc7138d7170f25551da51a.gif" loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center absolute inset-0" />
+               <img src="public/img/2.gif" loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center absolute inset-0" />
                 <!--image - end -->
                <!-- <video  src="https://cdn.dribbble.com/users/2908303/screenshots/15543567/media/7ba22d8ef73fe6f51a880dfcda9f99e1.mp4" class="w-full h-full object-cover object-center absolute inset-0"></video>-->
 
                 <!-- overlay - start -->
-                <div class="bg-indigo-500 mix-blend-multiply absolute inset-0"></div>
+                <div class="bg-indigo-400  mix-blend-multiply absolute inset-0"></div>
                 <!-- overlay - end -->
 
                 <!-- text start -->
                 <div class="sm:max-w-xl flex flex-col items-center relative p-4">
                     <p class="text-indigo-50 text-lg sm:text-xl text-center mb-4 md:mb-8">Very proud to introduce</p>
-                    <h1 class="text-white text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">Revolutionary way to build the web</h1>
+                    <h1 class="text-white text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">Amzii Smart Solutions </h1>
 
                     <div class="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5">
                     <a href="#" class="inline-block bg-indigo-500 hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Start now</a>
@@ -65,7 +66,7 @@
 <div class=" pb-6 sm:pb-8 pt-20 lg:pb-12">
             <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
                 <section class="min-h-96 md:max-h-60  justify-center items-center  shrink-0  overflow-hidden  rounded-lg relative py-16 md:py-20 xl:py-48">
-                    <img src="https://clouddevs.com/3dbay/files/preview/1281x854/11643128457wqieicud3bccgrp1g3qczimax0i5dnxmtpnjpmvt6qhfsmposo7uip8on9ubgcvikxz2xreogbk0o8vxpzzlncb5f9ay5ppqgjwx.png" loading="lazy" alt="Photo by Fakurian Design" class="w-full  object-cover object-center absolute inset-0" />
+                    <img src="public/img/5.png" loading="lazy" alt="Photo by Fakurian Design" class="h-full mx-auto object-cover animate-moveY object-center absolute inset-0" />
                 </section>
             </div>
         </div>

@@ -1,5 +1,5 @@
   <!-- Swiper -->
-  <div class="swiper mySwiper bg-white ">
+  <div class="swiper mySwiper bg-white dark:bg-gray-900">
       <div class="swiper-wrapper px-10 py-10">
         <div class="swiper-slide py-10">
              <div class="max-w-sm bg-white rounded-xl  border-gray-200 p-6  border-2 dark:bg-gray-800 dark:border-gray-700">
