@@ -1,5 +1,5 @@
 
-<div class="md:flex">
+<div class="md:flex bg-blure dark:bg-noirb  ">
     <div class="md:w-6/12">
         <div class=" pb-6 sm:pb-8 pt-20 lg:pb-12">
             <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
@@ -15,8 +15,8 @@
 
                 <!-- text start -->
                 <div class="sm:max-w-xl flex flex-col items-center relative p-4">
-                    <p class="text-indigo-50 text-lg sm:text-xl text-center mb-4 md:mb-8">Very proud to introduce</p>
-                    <h1 class="text-white text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">Amzii Smart Solutions </h1>
+                    <p class="text-indigo-50 font-roboto text-lg sm:text-xl text-center mb-4 md:mb-8">Very proud to introduce</p>
+                    <h1 class="text-white text-5xl font-lobster sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">Amzii Smart Solutions </h1>
 
                     <div class="w-full flex flex-col sm:flex-row sm:justify-center gap-2.5">
                     <a href="#" class="inline-block bg-indigo-500 hover:bg-indigo-600 active:bg-indigo-700 focus-visible:ring ring-indigo-300 text-white text-sm md:text-base font-semibold text-center rounded-lg outline-none transition duration-100 px-8 py-3">Start now</a>
@@ -65,8 +65,8 @@
 <div class="md:w-6/12">
 <div class=" pb-6 sm:pb-8 pt-20 lg:pb-12">
             <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
-                <section class="min-h-96 md:max-h-60  justify-center items-center  shrink-0  overflow-hidden  rounded-lg relative py-16 md:py-20 xl:py-48">
-                    <img src="public/img/5.png" loading="lazy" alt="Photo by Fakurian Design" class="h-full mx-auto object-cover animate-moveY object-center absolute inset-0" />
+                <section class="h-96 md:max-h-60  justify-center items-center  shrink-0  overflow-hidden  rounded-lg relative py-16 md:py-20 xl:py-48">
+                    <img src="public/img/5.png" loading="lazy" alt="Photo by Fakurian Design" class="h-80 mx-auto object-cover animate-moveY object-center absolute inset-0" />
                 </section>
             </div>
         </div>

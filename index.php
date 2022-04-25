@@ -1,5 +1,5 @@
 <?php include('includes/head.php'); ?>
-<body class="bg-gray-50 dark:bg-gray-900">
+<body class="bg-blure dark:bg-noirb">
  
 <!--Start Navbar-->
 <?php include('includes/navbar.php'); ?>   

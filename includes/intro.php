@@ -1,6 +1,6 @@
-<div class="bg-white py-6 md:py-20 dark:bg-gray-800">
+<div class="bg-white py-6 md:py-20 dark:bg-noird">
   <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
-    <div class="bg-gray-100 rounded-lg px-4 py-6 md:py-8 lg:py-12 dark:bg-gray-900">
+    <div class="bg-gray-100 rounded-lg px-4 py-6 md:py-8 lg:py-12 dark:bg-noirb">
       <p class="text-indigo-500 lg:text-lg font-semibold text-center mb-2 md:mb-3">Introducing</p>
 
       <h2 class="text-gray-800 text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6 dark:text-white">Revolutionary way to build the web</h2>

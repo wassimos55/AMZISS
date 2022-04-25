@@ -1,20 +1,25 @@
 const colors = require('tailwindcss/colors')
 module.exports = {
   purge: [],
-  darkMode: false, // or 'media' or 'class'
+  darkMode: 'class', // or 'media' or 'class'
   theme: {
     extend: {
       keyframes:{
       moveY:{
           '0%, 100%':{transform:'translateY(0px)'},
-          '50%':{transform:'translateY(25px)'},
+          '50%':{transform:'translateY(10px)'},
         }
       },
       animation: {
-          moveY:'moveY 2s infinite'
+          moveY:'moveY 3s infinite'
       },
       colors: {
         primary:'#FF6363',
+        blure:'#f4f7fc',
+        noird:'#0d152e',
+        noirb: {
+          DEFAULT: '#101c3d',
+        },
         secondary:{
           100:'#E2E2D5',
           200:'#888883',
@@ -40,7 +45,9 @@ module.exports = {
         },
       },
       fontFamily:{
-        body: ['Nunito']
+        body: ['Nunito'],
+        lobster: ['Lobster'],
+        roboto: ['Roboto'],
       }
 
     },
