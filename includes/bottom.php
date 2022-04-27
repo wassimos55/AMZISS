@@ -1,13 +1,3 @@
-<!--Atropos-->  
-<script src="node_modules/atropos/atropos.min.js"></script>
-<!-- Initialize Atropos -->
-<script>
-  const myAtropos = Atropos({
-    el: '.my-atropos',
-    // rest of parameters
-  });
-</script>
- 
 <!--Flowbite-->  
 <script src="https://unpkg.com/flowbite@1.4.2/dist/flowbite.js"></script>
 <!--Swiper Js-->

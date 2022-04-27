@@ -12,8 +12,6 @@
     <link rel="stylesheet" href="https://unpkg.com/flowbite@1.4.2/dist/flowbite.min.css" />
     <!--Swiper css-->
     <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/>
-    <!--atropos css-->
-    <link rel="stylesheet" href="node_modules/atropos/atropos.css"/>
     <!-- Swiper slide-->
     <style>
       .swiper {
