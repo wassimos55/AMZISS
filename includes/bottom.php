@@ -1,4 +1,12 @@
-
+<!--Atropos-->  
+<script src="node_modules/atropos/atropos.min.js"></script>
+<!-- Initialize Atropos -->
+<script>
+  const myAtropos = Atropos({
+    el: '.my-atropos',
+    // rest of parameters
+  });
+</script>
  
 <!--Flowbite-->  
 <script src="https://unpkg.com/flowbite@1.4.2/dist/flowbite.js"></script>
@@ -36,21 +44,13 @@
 </script>
    <!-- Initialize Swiper 2 -->
    <script>
-      var swiper = new Swiper(".mySwiper2", {
-        slidesPerView: 5,
+       var swiper = new Swiper(".mySwiper2", {
+        slidesPerView: 4,
         spaceBetween: 30,
-        slidesPerGroup: 3,
-        loop: true,
-
-
-
+        freeMode: true,
         pagination: {
           el: ".swiper-pagination",
           clickable: true,
-        },
-        navigation: {
-          nextEl: ".swiper-button-next",
-          prevEl: ".swiper-button-prev",
         },
         // Responsive breakpoints
         breakpoints: {
@@ -69,7 +69,7 @@
             slidesPerView: 4,
             spaceBetween: 30
             }
-        }
+        }        
       });
     </script>
 <!--Navbar Scripts-->
@@ -146,5 +146,6 @@ const options = {
         
     });
 </script>
+
 </body>
 </html>

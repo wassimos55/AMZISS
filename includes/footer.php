@@ -1,6 +1,6 @@
 <div class=" pt-5">
   <footer class="max-w-screen-2xl px-4 md:px-8 mx-auto bg-white dark:bg-noird">
-    <div class="flex flex-col md:flex-row justify-between items-center border-t border-b dark:border-gray-800 gap-4 py-6">
+    <div class="flex flex-col md:flex-row justify-between items-center border-t border-b dark:border-indigo-400 gap-4 py-6">
       <!-- nav - start -->
       <nav class="flex flex-wrap justify-center md:justify-start gap-x-4 gap-y-2 md:gap-6">
         <a href="#" class="text-gray-500 dark:text-white hover:text-indigo-500 active:text-indigo-600 transition duration-100">About</a>

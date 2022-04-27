@@ -1,6 +1,6 @@
-<div class="bg-white dark:bg-noird py-6 sm:py-8 lg:py-12 mb-5">
+<div class="bg-white dark:bg-noird py-6 sm:py-8 lg:py-12 mb-5 mt-5">
   <div class="max-w-screen-2xl pb-6 md:px-12 px-8 mx-auto">
-  <h2 class="text-gray-800 text-xl dark:text-white py-4 lg:text-3xl font-bold text-center pb-4 ">Trusted by the best</h2>
+  <h5 class="sm:text-3xl text-2xl font-medium text-center mb-4 text-indigo-500  font-lobster dark:text-white ">Trusted by the best</h5>
 
     <div class="grid grid-cols-2 md:grid-cols-4 rounded-lg gap-4 pt-3 lg:gap-6">
       <!-- logo - start -->

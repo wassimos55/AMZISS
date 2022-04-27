@@ -1,4 +1,4 @@
-<div class="dark:bg-noird pt-10 pb-10 ">
+<div class="dark:bg-noird pt-10 pb-5 ">
           <!-- text - start -->
           <div class="px-8 md:px-12">
                 <div class="  bg-white rounded-md py-6  px-5 dark:bg-noirb">
@@ -18,119 +18,142 @@
                                 <a href="#" class="group h-80 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
                                 <img src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
 
-                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-gray-700 text-center rounded-lg relative p-4">
-                                    <span class="text-gray-500 dark:text-gray-50">Men</span>
-                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Business Causual</span>
+                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-indigo-300 text-center rounded-lg relative p-4">
+                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Foulen Ben Flen</span>
+                                    <span class="text-gray-500 dark:text-gray-50">CEO</span>
                                 </div>
                                 </a>
                             </div>
                             <!-- product - end -->
                 </div>
-                
                 <div class="swiper-slide py-7">
                             <!-- product - start -->
                             <div class="w-full">
                                 <a href="#" class="group h-80 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
                                 <img src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
 
-                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-gray-700 text-center rounded-lg relative p-4">
-                                    <span class="text-gray-500 dark:text-gray-50">Men</span>
-                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Business Causual</span>
+                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-indigo-300 text-center rounded-lg relative p-4">
+                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Foulen Ben Flen</span>
+                                    <span class="text-gray-500 dark:text-gray-50">CEO</span>
                                 </div>
                                 </a>
                             </div>
                             <!-- product - end -->
                 </div>
-                
                 <div class="swiper-slide py-7">
                             <!-- product - start -->
                             <div class="w-full">
                                 <a href="#" class="group h-80 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
                                 <img src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
 
-                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-gray-700 text-center rounded-lg relative p-4">
-                                    <span class="text-gray-500 dark:text-gray-50">Men</span>
-                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Business Causual</span>
+                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-indigo-300 text-center rounded-lg relative p-4">
+                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Foulen Ben Flen</span>
+                                    <span class="text-gray-500 dark:text-gray-50">CEO</span>
                                 </div>
                                 </a>
                             </div>
                             <!-- product - end -->
                 </div>
-                
                 <div class="swiper-slide py-7">
                             <!-- product - start -->
                             <div class="w-full">
                                 <a href="#" class="group h-80 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
                                 <img src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
 
-                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-gray-700 text-center rounded-lg relative p-4">
-                                    <span class="text-gray-500 dark:text-gray-50">Men</span>
-                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Business Causual</span>
+                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-indigo-300 text-center rounded-lg relative p-4">
+                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Foulen Ben Flen</span>
+                                    <span class="text-gray-500 dark:text-gray-50">CEO</span>
                                 </div>
                                 </a>
                             </div>
                             <!-- product - end -->
                 </div>
-                
                 <div class="swiper-slide py-7">
                             <!-- product - start -->
                             <div class="w-full">
                                 <a href="#" class="group h-80 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
                                 <img src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
 
-                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-gray-700 text-center rounded-lg relative p-4">
-                                    <span class="text-gray-500 dark:text-gray-50">Men</span>
-                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Business Causual</span>
+                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-indigo-300 text-center rounded-lg relative p-4">
+                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Foulen Ben Flen</span>
+                                    <span class="text-gray-500 dark:text-gray-50">CEO</span>
                                 </div>
                                 </a>
                             </div>
                             <!-- product - end -->
                 </div>
-                
                 <div class="swiper-slide py-7">
                             <!-- product - start -->
                             <div class="w-full">
                                 <a href="#" class="group h-80 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
                                 <img src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
 
-                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-gray-700 text-center rounded-lg relative p-4">
-                                    <span class="text-gray-500 dark:text-gray-50">Men</span>
-                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Business Causual</span>
+                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-indigo-300 text-center rounded-lg relative p-4">
+                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Foulen Ben Flen</span>
+                                    <span class="text-gray-500 dark:text-gray-50">CEO</span>
                                 </div>
                                 </a>
                             </div>
                             <!-- product - end -->
                 </div>
-                
                 <div class="swiper-slide py-7">
                             <!-- product - start -->
                             <div class="w-full">
                                 <a href="#" class="group h-80 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
                                 <img src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
 
-                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-gray-700 text-center rounded-lg relative p-4">
-                                    <span class="text-gray-500 dark:text-gray-50">Men</span>
-                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Business Causual</span>
+                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-indigo-300 text-center rounded-lg relative p-4">
+                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Foulen Ben Flen</span>
+                                    <span class="text-gray-500 dark:text-gray-50">CEO</span>
                                 </div>
                                 </a>
                             </div>
                             <!-- product - end -->
                 </div>
-                
                 <div class="swiper-slide py-7">
                             <!-- product - start -->
                             <div class="w-full">
                                 <a href="#" class="group h-80 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
                                 <img src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
 
-                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-gray-700 text-center rounded-lg relative p-4">
-                                    <span class="text-gray-500 dark:text-gray-50">Men</span>
-                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Business Causual</span>
+                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-indigo-300 text-center rounded-lg relative p-4">
+                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Foulen Ben Flen</span>
+                                    <span class="text-gray-500 dark:text-gray-50">CEO</span>
                                 </div>
                                 </a>
                             </div>
                             <!-- product - end -->
                 </div>
+                <div class="swiper-slide py-7">
+                            <!-- product - start -->
+                            <div class="w-full">
+                                <a href="#" class="group h-80 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
+                                <img src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
+
+                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-indigo-300 text-center rounded-lg relative p-4">
+                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Foulen Ben Flen</span>
+                                    <span class="text-gray-500 dark:text-gray-50">CEO</span>
+                                </div>
+                                </a>
+                            </div>
+                            <!-- product - end -->
+                </div>
+                <div class="swiper-slide py-7">
+                            <!-- product - start -->
+                            <div class="w-full">
+                                <a href="#" class="group h-80 flex items-end bg-gray-100 rounded-lg overflow-hidden shadow-lg relative p-4">
+                                <img src="https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&q=75&fit=crop&crop=top&w=600&h=700" loading="lazy" alt="Photo by Austin Wade" class="w-full h-full object-cover object-center absolute inset-0 group-hover:scale-110 transition duration-200" />
+
+                                <div class="w-full flex flex-col bg-white dark:bg-noird border-2 dark:border-indigo-300 text-center rounded-lg relative p-4">
+                                    <span class="text-gray-800 dark:text-gray-100 text-lg lg:text-xl font-bold">Foulen Ben Flen</span>
+                                    <span class="text-gray-500 dark:text-gray-50">CEO</span>
+                                </div>
+                                </a>
+                            </div>
+                            <!-- product - end -->
+                </div>
+
+
 
 
 

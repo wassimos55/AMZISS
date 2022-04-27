@@ -24,7 +24,7 @@
                     <span class="title-font dark:text-white font-medium">Pack Truffaut Blue</span>
                   </div>
               </div>
-              <div class="py-2 pr-2 w-1/2 ">
+              <div class="py-2 pl-2 w-1/2 ">
                   <div class="bg-gray-100 dark:bg-noirb border-2 dark:border-gray-800 rounded flex p-4 h-full items-center">
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="text-blue-400 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
                       <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
@@ -42,7 +42,7 @@
                     <span class="title-font dark:text-white font-medium">Pack Truffaut Blue</span>
                   </div>
               </div>
-              <div class="py-2 pr-2 w-1/2 ">
+              <div class="py-2 pl-2 w-1/2 ">
                   <div class="bg-gray-100 dark:bg-noirb border-2 dark:border-gray-800 rounded flex p-4 h-full items-center">
                     <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" class="text-blue-400 w-6 h-6 flex-shrink-0 mr-4" viewBox="0 0 24 24">
                       <path d="M22 11.08V12a10 10 0 11-5.93-9.14"></path>
