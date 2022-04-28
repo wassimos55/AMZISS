@@ -16,7 +16,7 @@
         breakpoints: {
             // when window width is >= 320px
             200: {
-            slidesPerView: 2,
+            slidesPerView: 1,
             spaceBetween: 20
             },
             // when window width is >= 480px
@@ -46,7 +46,7 @@
         breakpoints: {
             // when window width is >= 320px
             200: {
-            slidesPerView: 2,
+            slidesPerView: 1,
             spaceBetween: 20
             },
             // when window width is >= 480px
