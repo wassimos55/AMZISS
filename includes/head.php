@@ -74,6 +74,11 @@
       .my-bg7{
         background: linear-gradient(90deg,#d1aad7,#c88bc4 25.17%,#7b8fdd 50%,#86bff2 73.09%,#bbdef2);
       }
+      .tgrad {
+        background: linear-gradient(to left, #0072ff 93%, #00c6ff 90%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
     </style>
 
   
