@@ -1,11 +1,23 @@
-<div class="bg-white py-6 md:py-20 dark:bg-noird">
-  <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
-    <div class="bg-blure rounded-lg px-4 py-6 md:py-8 lg:py-12 dark:bg-noirb">
-      <p class="tgrad lg:text-lg font-lobster text-3xl font-semibold text-center mb-2 md:mb-3">About Us</p>
+<div class=" pb-6 sm:pb-8 lg:pb-12 px-8 mt-10 dark:bg-noird">
+  <div class="max-w-screen-2xl px-4  mx-auto">
 
-      <h2 class="text-gray-800 text-xl lg:text-3xl font-bold text-roboto text-center mb-4 md:mb-6 dark:text-white">Make Your Business More Profitable</h2>
+    <section class="h-80 flex justify-center items-center flex-1 shrink-0 bg-gray-100 overflow-hidden shadow-lg rounded-lg relative py-16 md:py-20 xl:py-48">
+      <!-- image - start -->
+      <img src="public/img/1.gif" loading="lazy" alt="Photo by Fakurian Design" class="w-full h-full object-cover object-center absolute inset-0" />
+      <!-- image - end -->
 
-      <p class="max-w-screen-md text-gray-900 md:text-lg text-center mx-auto dark:text-white text-roboto">ʺIntuition and high skills break the shell of the invincible to deliver solutions beyond the limitsʺ..</p>
-    </div>
+      <!-- overlay - start -->
+      <div class="bg-indigo-500 mix-blend-multiply absolute inset-0"></div>
+      <!-- overlay - end -->
+
+      <!-- text start -->
+      <div class=" flex flex-col items-center relative p-4">
+
+        <h1 class="text-white text-4xl sm:text-5xl md:text-6xl font-bold text-center mb-8 md:mb-12">About Us</h1>
+        <p class="text-indigo-200 text-lg sm:text-xl text-center mb-4 md:mb-8 px-20">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum commodi earum maiores ducimus placeat natus, adipisci illum eius voluptatibus! Nobis voluptatum pariatur architecto quam dolor officia praesentium cumque iusto cum.</p>
+
+      </div>
+      <!-- text end -->
+    </section>
   </div>
 </div>

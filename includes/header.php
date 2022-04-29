@@ -1,5 +1,6 @@
 
-<div class="md:flex bg-blure dark:bg-noirb  ">
+<div class="md:flex bg-blure  dark:bg-noirb  shadow-md md:px-8" >
+
     <div class="md:w-6/12">
         <div class=" pb-6 sm:pb-8 pt-20 lg:pb-12">
             <div class="max-w-screen-2xl px-4 md:px-8 mx-auto">
@@ -78,11 +79,12 @@
         <div class=" pb-6 sm:pb-8 pt-20 lg:pb-12">
             <div class="max-w-screen-2xl px-4 md:px-8 mx-auto"></div>
                 <section class="h-96 md:max-h-60  justify-center items-center  shrink-0  overflow-hidden  rounded-lg relative py-16 md:py-20 xl:py-48">
-                    <img src="public/img/5.png" loading="lazy" alt="Photo by Fakurian Design" class="h-80 mx-auto object-cover animate-moveY object-center absolute inset-0" />
+                    <img src="https://clouddevs.com/3dbay/files/preview/1280x925/11633022480hc9mfxumaahvl9xaknamoxp6oflhexr5qkhvsinrq6l4js0lnpt0hek3mquunob5osgbgbdnjsqnndoqljibebex45udd1iegby0.png" loading="lazy" alt="Photo by Fakurian Design" class="h-80 mx-auto object-cover animate-moveY object-center absolute inset-0" />
                 </section>
             </div>
         </div>
 </div>
+
 </div> 
 
 

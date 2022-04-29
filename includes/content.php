@@ -3,7 +3,9 @@
     <div class="grid md:grid-cols-2 gap-8 lg:gap-12">
       <!--1/6 Start-->
       <div>
-
+                <section class="h-96 md:max-h-60  justify-center items-center  shrink-0  overflow-hidden  rounded-lg relative py-16 md:py-20 xl:py-48">
+                    <img src="public/img/5.png" loading="lazy" alt="Photo by Fakurian Design" class="h-80 mx-auto object-cover animate-moveY object-center absolute inset-0" />
+                </section>
       </div>
       <!--1/6 End-->
       <!--1/6 Start-->

@@ -75,10 +75,27 @@
         background: linear-gradient(90deg,#d1aad7,#c88bc4 25.17%,#7b8fdd 50%,#86bff2 73.09%,#bbdef2);
       }
       .tgrad {
-        background: linear-gradient(to left, #0072ff 93%, #00c6ff 90%);
+        background: linear-gradient(to right, #0072ff , #00c6ff );
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
       }
+
+     /* Background styles */
+.hero {
+    background-image: url('public/img/mesh.png');
+    background-position: center;
+    background-size:cover;
+}
+
+/* Glassmorphism card effect */
+.hcard {
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+}
+
     </style>
 
   

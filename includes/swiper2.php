@@ -1,7 +1,7 @@
 <div class="dark:bg-noird pt-10 pb-5 ">
           <!-- text - start -->
-          <div class="px-8 md:px-12">
-                <div class="  bg-white rounded-md py-6  px-5 dark:bg-noirb">
+          <div class="px-8 md:px-10">
+                <div class="  bg-white rounded-md py-6  px-5 shadow-md  dark:bg-noirb">
                     <h2 class="text-indigo-500 dark:text-blue-500 text-2xl lg:text-3xl font-bold text-center mb-4 md:mb-6">Meet our Team</h2>
 
                     <p class="max-w-screen-md text-gray-500 dark:text-white md:text-lg text-center mx-auto">This is a section of some simple filler text, also known as placeholder text. It shares some characteristics of a real written text but is random or otherwise generated.</p>
