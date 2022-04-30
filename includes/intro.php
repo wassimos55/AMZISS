@@ -1,5 +1,5 @@
-<div class=" pb-6 sm:pb-8 lg:pb-12 px-8 mt-10 dark:bg-noird">
-  <div class="max-w-screen-2xl px-4  mx-auto">
+<div class=" pb-6 sm:pb-8 lg:pb-12 px-10 mt-10 dark:bg-noird">
+  <div class="max-w-screen-2xl   mx-auto">
 
     <section class="h-80 flex justify-center items-center flex-1 shrink-0 bg-gray-100 overflow-hidden shadow-lg rounded-lg relative py-16 md:py-20 xl:py-48">
       <!-- image - start -->

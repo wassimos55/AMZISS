@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="https://unpkg.com/flowbite@1.4.2/dist/flowbite.min.css" />
     <!--Swiper css-->
     <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css"/>
+    <!--vov css-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/vaibhav111tandon/vov.css@latest/vov.css">
     <!-- Swiper slide-->
     <style>
       .swiper {
@@ -82,7 +84,7 @@
 
      /* Background styles */
 .hero {
-    background-image: url('public/img/mesh.png');
+    background-image: url('https://cdn.dribbble.com/users/32512/screenshots/3477540/media/77597952f639829fd93993dc59e63d7d.gif');
     background-position: center;
     background-size:cover;
 }

@@ -1,5 +1,5 @@
 <!-- Web Version -->
-<section class="bg-white mt-10 shadow-md rounded-md mx-10 hero text-gray-600 hidden md:block dark:text-gray-400 dark:bg-noirb px-8 body-font">
+<section class="bg-white mt-5 shadow-md rounded-md mx-10 text-gray-600 hidden md:block dark:text-gray-400 dark:bg-noirb px-8 body-font">
   <div class="container px-5 py-12 mx-auto " >
     
     <div class="flex flex-col text-center w-full mb-4">
@@ -12,7 +12,7 @@
     <div class="flex flex-wrap -m-4 text-center">
       <div class="p-4 w-1/4  ">
 
-            <div class="max-w-sm hcard  bg-white rounded-lg border border-gray-200 shadow-md pt-4 px-4 dark:bg-noird dark:border-indigo-400 ">
+            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md pt-4 px-4 dark:bg-noird dark:border-indigo-400 ">
               <a href="#">
                  <img class="rounded-lg " src="https://clouddevs.com/3dbay/files/preview/1280x960/116330198757nyvncwtonurr44dfuzpnn1c4cbc6jhb1tiun59qjdjt00eq3aq4r54qrr1hcrkwjyvegdny323u5eecabudinaanl9wd4hx2jq1.png" alt="">
               </a>
@@ -26,7 +26,7 @@
 
       </div>
       <div class="p-4 w-1/4  ">
-            <div class="max-w-sm hcard bg-white rounded-lg border border-gray-200 shadow-md pt-4 px-4 dark:bg-noird dark:border-indigo-400 ">
+            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md pt-4 px-4 dark:bg-noird dark:border-indigo-400 ">
               <a href="#">
                 <img class="rounded-lg " src="https://clouddevs.com/3dbay/files/preview/1280x960/116330198757nyvncwtonurr44dfuzpnn1c4cbc6jhb1tiun59qjdjt00eq3aq4r54qrr1hcrkwjyvegdny323u5eecabudinaanl9wd4hx2jq1.png" alt="">
               </a>
@@ -39,7 +39,7 @@
             </div>
       </div>
       <div class="p-4 w-1/4  ">
-            <div class="max-w-sm hcard bg-white rounded-lg border border-gray-200 shadow-md pt-4 px-4 dark:bg-noird dark:border-indigo-400 ">
+            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md pt-4 px-4 dark:bg-noird dark:border-indigo-400 ">
               <a href="#">
                 <img class="rounded-lg " src="https://clouddevs.com/3dbay/files/preview/1280x960/116330198757nyvncwtonurr44dfuzpnn1c4cbc6jhb1tiun59qjdjt00eq3aq4r54qrr1hcrkwjyvegdny323u5eecabudinaanl9wd4hx2jq1.png" alt="">
               </a>
@@ -52,7 +52,7 @@
             </div>
       </div>
       <div class="p-4 w-1/4  ">
-            <div class="max-w-sm hcard bg-white rounded-lg border border-gray-200 shadow-md pt-4 px-4 dark:bg-noird dark:border-indigo-400 ">
+            <div class="max-w-sm bg-white rounded-lg border border-gray-200 shadow-md pt-4 px-4 dark:bg-noird dark:border-indigo-400 ">
               <a href="#">
                 <img class="rounded-lg " src="https://clouddevs.com/3dbay/files/preview/1280x960/116330198757nyvncwtonurr44dfuzpnn1c4cbc6jhb1tiun59qjdjt00eq3aq4r54qrr1hcrkwjyvegdny323u5eecabudinaanl9wd4hx2jq1.png" alt="">
               </a>

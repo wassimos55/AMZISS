@@ -12,28 +12,24 @@
 
   
 <!--Start Header-->
-<?php include('includes/header.php'); ?>   
+<?php //include('includes/header.php'); ?>   
 <!--End Header-->    
 
+<!--Start Hero-->
+<?php include('includes/hero.php'); ?>   
+<!--End Hero-->  
 
 
 
-<!--Start Intro-->
-<?php include('includes/intro.php'); ?>   
-<!--End Intro-->    
+
+
+
+
 <!--Start Features-->
-<?php include('includes/features.php'); ?>   
+<?php include('includes/features1.php'); ?>   
 <!--End Features--> 
 
 
-<!--Start Logo-->
-<?php include('includes/logo.php'); ?>   
-<!--End Logo--> 
-
-
-<!--Start Content-->
-<?php include('includes/content2.php'); ?>   
-<!--End Content-->    
 
 
 
@@ -47,7 +43,7 @@
 <!--End  swiper-->    
 
 <!--Start Footer-->
-<?php include('includes/footer.php'); ?>   
+<?php include('includes/footer3.php'); ?>   
 <!--End Footer-->    
 <!--Start Bottom-->
 <?php include('includes/bottom.php'); ?>   
