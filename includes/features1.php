@@ -1,5 +1,5 @@
 
-<div class="relative py-16 bg-white dark:bg-noird">  
+<div class="relative py-16 bg-white dark:bg-noird ">  
     <div class="relative container m-auto px-6 text-gray-500 md:px-12">
         <div class="grid md:grid-cols-3 gap-6 md:w-8/12 md:mx-auto lg:w-full">
             <div class="group bg-white dark:bg-noirb rounded-xl shadow-xl px-8 py-12 space-y-6 text-center">

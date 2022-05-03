@@ -9,11 +9,7 @@
 
  
 
-
   
-<!--Start Header-->
-<?php //include('includes/header.php'); ?>   
-<!--End Header-->    
 
 <!--Start Hero-->
 <?php include('includes/hero.php'); ?>   
@@ -21,12 +17,25 @@
 
 
 
+<?php // include('includes/content5.php'); ?>  
+<?php  include('includes/features2.php'); ?>  
+ 
+<?php  include('includes/best1.php'); ?>  
+<?php  include('includes/intro.php'); ?> 
+
+<?php //  include('includes/features.php'); ?>  
 
 
+
+
+
+<?php  include('includes/content.php'); ?>  
+
+<?php include('includes/callaction.php'); ?>  
 
 
 <!--Start Features-->
-<?php include('includes/features1.php'); ?>   
+<?php // include('includes/features1.php'); ?>   
 <!--End Features--> 
 
 

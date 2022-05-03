@@ -85,6 +85,13 @@
      /* Background styles */
 .hero {
     background-image: url('https://cdn.dribbble.com/users/32512/screenshots/3477540/media/77597952f639829fd93993dc59e63d7d.gif');
+    /*background-image: url('public/img/bg4.svg');*/
+    background-position: center;
+    background-size:cover;
+}
+.hero2 {
+    background-image: url('https://64.media.tumblr.com/70ebd1f6d3a29d019de127909e8ed94f/tumblr_oya8gndrCI1qeyvpto1_500.gifv');
+    /*background-image: url('public/img/bg4.svg');*/
     background-position: center;
     background-size:cover;
 }
