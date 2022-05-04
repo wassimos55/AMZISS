@@ -40,6 +40,26 @@
         -webkit-align-items: center;
         align-items: center;
       }
+      /* Swiper 3 */
+      .swiper3 {
+        width: 100%;
+        height: 600px;
+      }
+
+      .swiper-slide {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 18px;
+        font-size: 22px;
+        font-weight: bold;
+        color: #fff;
+        
+      }
+
+
+
+
 
 
 

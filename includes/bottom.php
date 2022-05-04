@@ -62,6 +62,13 @@
         }        
       });
     </script>
+       <!-- Initialize Swiper 2 -->
+   <script>
+      var swiper = new Swiper(".mySwiper3", {
+        effect: "cards",
+        grabCursor: true,
+      });
+    </script>
 <!--Navbar Scripts-->
 <script>
     // set the target element that will be collapsed or expanded (eg. navbar menu)
